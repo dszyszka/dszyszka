@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hello there! 👋
+My name is Dawid and I'm a Senior QA Engineer
+### About me
+My adventure as a software tester began in 2014 and I have had the pleasure of working at [.intent](https://withintent.com/) for over 4 years.  
+I'm interested in various new technologies 🦾, football ⚽︎, music 🎧 and gaming 🎮
+
+### Skills
+- QA Engineer with a strong understanding of software development and testing methodologies and life cycle.
+- Developing and executing test plans/cases, software bug tracking/management
+- Excellent communication, cooperation, and problem-solving skills.
+- Attention to detail and commitment to excellence.
+- Thorough hands-on experience with all levels of testing including Sanity, Usability, Smoke, Functional, Integration, Regression, End to End, User Acceptance Testing and more...
+
+#### 📫 How to reach me: dawid.szyszka@withintent.com
 
 <!--
 **dszyszka/dszyszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
